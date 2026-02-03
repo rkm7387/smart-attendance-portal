@@ -12,3 +12,4 @@ atenv
 .env 
 experiments
 
+.streamlit
